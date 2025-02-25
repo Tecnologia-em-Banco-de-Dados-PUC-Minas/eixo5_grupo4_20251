@@ -11,7 +11,6 @@ Este projeto tem como objetivo resolver o desafio de prever a probabilidade de d
 * Ana Lúcia de Andrade Santos
 * Igor Leandro Barroso Santos
 * Nayara do Nascimento Alves Ferreira
-* Tatiana Aparecida Cardoso Eugenio
 * Thiago Alves Ribeiro
 * Vinicius Fialho Marques
 
