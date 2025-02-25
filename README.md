@@ -1,11 +1,11 @@
 # Eixo-5
 Arquitetura de Dados em Nuvem
 
-# TÍTULO DO PROJETO
+# PROBABILIDADE DE DESLIGAMENTO DE COLABORADORES
 `BANCO DE DADOS`
 `2025/01`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este projeto tem como objetivo resolver o desafio de prever a probabilidade de desligamento de colaboradores em uma organização, permitindo à empresa implementar estratégias preventivas para reter talentos. A proposta fundamenta-se na aplicação de conhecimentos técnicos em duas áreas estratégicas: aprendizagem de máquina (machine learning) e governança de dados.
 
 ## Integrantes
 * Ana Lúcia de Andrade Santos
