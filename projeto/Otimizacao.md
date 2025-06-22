@@ -1,1 +1,7 @@
+## Considerações finais
 
+Para esta etapa do projeto, foi estabelecido um planejamento robusto para a governança de dados, considerando aspectos como segurança, privacidade, qualidade e conformidade legal. Para isso, adotaremos a plataforma Google Cloud Platform (GCP), que oferece um conjunto de ferramentas e serviços nativos que garantem um alto nível de segurança, rastreabilidade e controle de acesso aos dados. Os princípios de governança, como prestação de contas, transparência e conformidade com a LGPD, serão continuamente verificados por meio do uso de registros de auditoria (audit logs), controle granular de permissões e criptografia em repouso e em trânsito.
+
+Além disso, políticas de qualidade de dados e administração serão implementadas, com foco na integridade e atualidade das informações utilizadas nos modelos de Machine Learning. O histórico de atualizações do projeto reflete um amadurecimento constante das práticas de governança e otimização dos modelos. Para o futuro, também propomos a integração com dashboards interativos para uso por áreas de RH e gestão.
+
+Projetos de previsão de churn de funcionários têm grande potencial de impacto em diversas empresas, pois possibilitam a identificação precoce de riscos de perda de talentos, permitindo a adoção de ações preventivas e estratégias de retenção mais eficazes. Em um mercado cada vez mais competitivo, a capacidade de manter equipes qualificadas e reduzir custos associados à rotatividade se traduz em uma vantagem estratégica extremamente relevante.
